@@ -6,7 +6,7 @@ public class Main {
         numberTask.printNumberTask("11.1.1");
 
         AgeCalculator age = new AgeCalculator();
-//        age.ageDetermination();
+        age.ageDetermination();
 
         numberTask.printNumberTask("11.1.2");
 
